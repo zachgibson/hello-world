@@ -1,5 +1,4 @@
 # hello-world
-Another day another repo
 
 *I've never gone through this hello world example, so I'm doing it now.*
 
